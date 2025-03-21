@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshi-yashi&label=Profile%20views&color=0e75b6&style=flat" alt="joshi-yashi" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Express**
+- 🌱 I’m currently learning **Node.js, Express, NestJs**
 
 - 💬 Ask me about **Technology,Latest trends, Bussiness**
 

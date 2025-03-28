@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yashi.joshi@systango.com**
 
-- ⚡ Fun fact **I'm a cutiee foodiee**
+- ⚡ Fun fact **Bloody hell CONFIDENT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
